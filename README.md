@@ -1,6 +1,6 @@
 # Data-wrangling
-Data wrangling of data from a tweeter account before analyzing it 
-The dataset is the tweet archive of Twitter user @dog_rates, also known as WeRateDogs. WeRateDogs is a Twitter account that rates people's dogs with a humorous comment about the dog.
+Wrangling data from a tweeter account before analyzing it 
+The main dataset is the tweet archive of Twitter user @dog_rates, also known as WeRateDogs. WeRateDogs is a Twitter account that rates people's dogs with a humorous comment about the dog.
 Packages: pandas, NumPy, requests, tweepy, json
 Three datasets : 
 1. Enhanced Twitter Archive: twitter_archive_enhanced.csv
